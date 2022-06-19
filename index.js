@@ -35,6 +35,7 @@ const [r, o, y, g, b, , v] = colors
 const [, , , , , indg,] = colors
 
 
-const {muppetName, color, song, job, partner} = muppet
-const {nestedJob, nestedPartner} = nestedMuppet
-const {song2, song4} = nestedMuppet.album.theMuppetMovie
+// const {muppetName, color, song, job, partner} = muppet
+// const {nestedJob, nestedPartner} = nestedMuppet
+// const {song2, song4} = nestedMuppet.album.theMuppetMovie
+const new1 = [233,4455]
